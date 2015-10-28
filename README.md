@@ -1,8 +1,9 @@
 # MapboxSnapshot
 Demo Of Adding Mapbox Android SNAPSHOT To An App
 
-Mapbox for Android SNAPSHOTS are distributed via Maven Central's SNAPSHOT repository.  To include this in an app:
+Mapbox for Android SNAPSHOTS are distributed via Maven Central's SNAPSHOT repository.
 
+#### To include this in an app:
 
 ```
 // Add Maven Central SNAPSHOT Repository
@@ -24,3 +25,5 @@ dependencies {
     }
 }
 ```
+
+<img src="https://raw.githubusercontent.com/bleege/MapboxSnapshot/master/screenshot.png" width="540" height="950"/>
